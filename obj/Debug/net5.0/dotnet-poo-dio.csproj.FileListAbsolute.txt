@@ -1,0 +1,16 @@
+C:\www\dotnet-poo-dio\bin\Debug\net5.0\dotnet-poo-dio.exe
+C:\www\dotnet-poo-dio\bin\Debug\net5.0\dotnet-poo-dio.deps.json
+C:\www\dotnet-poo-dio\bin\Debug\net5.0\dotnet-poo-dio.runtimeconfig.json
+C:\www\dotnet-poo-dio\bin\Debug\net5.0\dotnet-poo-dio.runtimeconfig.dev.json
+C:\www\dotnet-poo-dio\bin\Debug\net5.0\dotnet-poo-dio.dll
+C:\www\dotnet-poo-dio\bin\Debug\net5.0\ref\dotnet-poo-dio.dll
+C:\www\dotnet-poo-dio\bin\Debug\net5.0\dotnet-poo-dio.pdb
+C:\www\dotnet-poo-dio\obj\Debug\net5.0\dotnet-poo-dio.csproj.AssemblyReference.cache
+C:\www\dotnet-poo-dio\obj\Debug\net5.0\dotnet-poo-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\dotnet-poo-dio\obj\Debug\net5.0\dotnet-poo-dio.AssemblyInfoInputs.cache
+C:\www\dotnet-poo-dio\obj\Debug\net5.0\dotnet-poo-dio.AssemblyInfo.cs
+C:\www\dotnet-poo-dio\obj\Debug\net5.0\dotnet-poo-dio.csproj.CoreCompileInputs.cache
+C:\www\dotnet-poo-dio\obj\Debug\net5.0\dotnet-poo-dio.dll
+C:\www\dotnet-poo-dio\obj\Debug\net5.0\ref\dotnet-poo-dio.dll
+C:\www\dotnet-poo-dio\obj\Debug\net5.0\dotnet-poo-dio.pdb
+C:\www\dotnet-poo-dio\obj\Debug\net5.0\dotnet-poo-dio.genruntimeconfig.cache
